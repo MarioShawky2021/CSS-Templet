@@ -120,7 +120,7 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-    background-image: url(../sours/imges/Untitled.jpg);
+    background-image: url(../CSS-Templet/sours/imges/Untitled.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
